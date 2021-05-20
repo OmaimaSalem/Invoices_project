@@ -1,0 +1,90 @@
+Berichte -> Projektmitglieder
+„Project Members“: „Projekt Mitglieder“
+„Search Type“: „Auswahlkriterien“
+„Ticket Name“: „Ticket Titel“
+„Task Name“: „Aufgaben Titel“
+„Project Name“: „Projekt Titel“
+„Search“: „Suchen“
+„Export“: „Exportieren“
+„View report“: „Bericht anzeigen“
+„Employee name“: „Mitarbeiter Name“
+„Mobile number“: „Mobilnummer“
+„Email Address“: „Email Adresse“
+„Company“: „Unternehmen“
+
+Berichte -> Time Tracking
+„Time Tracking (Monthly)“: „Projekt Mitglieder“
+„Filtered Date“: „Gefiltertes Datum“
+„Select Date“: „Datum auswählen“
+„Search“: „Suchen“
+„Export“: „Exportieren“
+„View report“: „Bericht anzeigen“
+„Employee“: „Mitarbeiter“
+„name“: „Name“
+„Project name“: „Projekt Titel“
+„Ticket name“: „Ticket Titel“
+„Task name“: „Aufgaben Titel“
+„Total hours“: „Gesamtstunden“
+„All Projects“: „Alle Projekte“
+„All Tickets“: „Alle Tickets“
+„All tasks“: „Alle Aufgaben“
+„total hours“: „Gesamtstunden“
+
+Berichte ->Finanziell
+„Financial“: „Finanzbericht“
+„Project name“: „Projekt Titel“
+„Client“: „Kunde“
+„Actual Time“: „Aktuelle Zeit“
+„Remaining Time“: „Übrige Zeit“
+„Export“: „Exportieren“
+
+Berichte -> Urlaube
+„Vacations“: „Urlaube“
+„Employee Name“: „Mitarbeiter Name“
+„Search“: „Suchen“
+„Vacation Description“: „Urlaub Beschreibung“
+„Start Date“: „Anfangsdatum“
+„End Date“: „Enddatum“
+„Export“: „Exportieren“
+
+Berichte -> Projektstatus
+„Project Status“: „Projekt Status“
+„Project Name“: „Projekt Titel“
+„Search“: „Suchen“
+„Open“: „Offen“
+„Inprogress“: „In Bearbeitung“
+„Pending“: „Ausstehend“
+„Done“: „Beendet“
+„AssignTo“: „Zuweisen“
+
+Berichte -> Mitarbeiterprojekt
+„Employee Project“: „Mitarbeiterprojekt“
+„Search“: „Suchen“
+„Export“: „Exportieren“
+„Employee name“: „Mitarbeitername“
+„Select Date“: „Datum auswählen“
+„View Report“: „Bericht anzeigen“
+„Subject“: „Gegenstand“
+„Type“: „Typ“
+„Date From“: „Anfangsdatum“
+„Date to“: „Enddatum“
+„Time consumed“: „Vergangene Zeit“
+„Client“: „Kunde“
+
+Berichte ->Mitarbeiter Teilnehmer
+„Attendees Tracking“: „Anwesenheitstracking“
+„Search“: „Suchen“
+„Send to“: „Senden an“
+„Export“: „exportieren“
+„view report“: „Bericht anzeigen“
+„Employee Name“: „Mitarbeiter Name“
+„Date“: „Datum“
+„Entry“: „Start“
+„Exit“: „Ende“
+„Entry late“: „Start verspätet“
+„Entry early“: „Start frühzeitig“
+„Exit late“: „Ende verspätet“
+„Exit early“: „Ende frühzeitig“
+„Break“: „Pause“
+„work time“: „Arbeitszeit“
+

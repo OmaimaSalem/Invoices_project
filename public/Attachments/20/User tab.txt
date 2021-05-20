@@ -1,0 +1,47 @@
+User tab (page title)
+
+"regular-user": "Regulärer Benutzer"
+"Attributes": Eigenschaften"
+
+"Open Tickets": "Offene Tickets"
+"Pending Tickets": "Ausstehende Tickets"
+"Doing Tickets": "Tickets in Bearbeitung"
+"Done Tickets": "Erledigte Tickets"
+
+"Invalid date": "Ungültiges Datum"
+
+User tab -> Activity 
+"activity": "Aktivitäten"
+"projects": "Projekte"
+"tickets": "Tickets"
+"tasks": "Aufgaben"
+"comments": "Kommentare"
+"Created at": "Erstellt am"
+"User": "Benutzer"
+"Subject": "Gegenstand"
+"Create ticket": "Ticket erstellen"
+"Delete ticket": "Ticket löschen"
+
+User tab ->Projects
+"number": "Nummer"
+"Name": "Titel"
+"Description": "Beschreibung"
+"Project Assigns": "Zugewiesene Benutzer"
+"ETC": "VF (abbreviation for Voraussichtliche Fertigstellung)"
+
+
+User tab -> tickets
+"Number": "Nummer"
+"Client": "Kunde"
+"Title": "Titel"
+"Project": "Projekt"
+"Last Update": "Letztes Update"
+"ETC": "VF (Voraussichtliche Fertigstellung)"
+
+User tab -> tasks
+"ETC": "VF (Voraussichtliche Fertigstellung)"
+
+
+
+
+
